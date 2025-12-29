@@ -21,7 +21,7 @@ As análises foram realizadas utilizando **MySQL**, com as consultas organizadas
 analise-sql/
 │
 ├── data/
-│ └── Arquivos CSVs utilizados no projeto
+│ └── Arquivos CSVs usados no projeto
 │
 ├── faturamento_total.sql
 ├── qtd_pedidos_status.sql
@@ -33,7 +33,10 @@ analise-sql/
 │
 └── README.md
 
-Cada arquivo `.sql` contém uma **pergunta de negócio específica**, acompanhada da query responsável por respondê-la.
+go
+Copiar código
+
+Cada arquivo `.sql` contém uma pergunta de negócio específica, acompanhada da consulta responsável por respondê-la.
 
 ---
 
